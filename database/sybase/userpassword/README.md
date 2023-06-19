@@ -1,4 +1,4 @@
-1. Download the file SybaseDatabaseConnection.class. Say it is downloaded to C:\temp
+1. Download the files. Say it is downloaded to C:\temp
 2. Ensure that the JDK binaries are in the PATH.
 3. Compile the file(Optional)
    
