@@ -1,8 +1,8 @@
-1. Download the file. Say it is downloaded to C:\temp
+1. Download the file SybaseDatabaseConnection.class. Say it is downloaded to C:\temp
 2. Ensure that the JDK binaries are in the PATH.
-3. Compile the file
+3. Compile the file(Optional)
    
-   javac SybaseDatabaseConnection
+   javac SybaseDatabaseConnection.java
 5. Run
 
    Usage: java -cp "Full path to jconn jar";. SybaseDatabaseConnection "Sybase Server" "Sybase Port" "Database name" "User Name" "Password" "Query"
